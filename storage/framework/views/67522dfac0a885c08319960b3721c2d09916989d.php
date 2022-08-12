@@ -1,0 +1,1 @@
+teste<?php /**PATH /home/phmultimarcas/dash.phmultimarcas.com.br/resources/views/adm/modulos/automoveis/teste.blade.php ENDPATH**/ ?>

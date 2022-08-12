@@ -1,0 +1,13 @@
+.cabecalho {
+    font-weight: bold;
+
+}
+
+.row{
+    padding: 5px 0;
+}
+
+.required{
+    font-size: 12px;
+    color:#ff0000;
+}
